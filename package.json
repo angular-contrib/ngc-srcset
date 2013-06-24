@@ -1,0 +1,42 @@
+{
+    "name": "ngc-srcset",
+    "version": "0.9.0",
+    "description": "Implementation of the srcset attribute as an AngularJS directive",
+    "homepage": "http://angular-contrib.github.io/ngc-srcset",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/angular-contrib/ngc-srcset.git"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-uglify": "~0.2.1",
+        "grunt-text-replace": "~0.3.2",
+        "grunt-contrib-copy": "~0.4.1",
+        "grunt-contrib-clean": "~0.4.1"
+    },
+    "keywords": [
+        "srcset",
+        "adaptive",
+        "image",
+        "adaptive-image",
+        "angular",
+        "angularjs",
+        "angular-contrib",
+        "ngc"
+    ],
+    "author": {
+        "name": "Diego Vilar",
+        "email": "diegovilar@gmail.com",
+        "url": "https://github.com/diegovilar"
+    },
+    "license": "BSD",
+    "readmeFilename": "README.md",
+    "gitHead": "0981f5cd63ac65b035065602717c191036f10182",
+    "bugs": {
+        "url": "https://github.com/angular-contrib/ngc-srcset/issues"
+    }
+}
