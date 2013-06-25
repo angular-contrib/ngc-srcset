@@ -61,7 +61,7 @@
      * @constant
      * @type {!number}
      */
-    var DEFAULT_MAX_HEIGHT = DEFAULT_MAX_WIDTH;
+    var DEFAULT_MAX_HEIGHT = Infinity;
 
     /**
      * @constant
